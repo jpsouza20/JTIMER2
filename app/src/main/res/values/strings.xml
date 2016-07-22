@@ -9,6 +9,5 @@
     <string name="pref_about_text">Created by: Joao Paulo Souza\nEmail: jpappslab@gmail.com\n\n\nCountdown and Count up timer and alarm application.um</string>
     <string name="pref_alarm_sound">alarmsound</string>
     <string name="pref_count">count down or up</string>
-    <string name="banner_ad_unit_id">ca-app-pub-2513105616589385/1284206959</string>
 
 </resources>
