@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listOptions">
+        <item>Beautiful Day</item>
+        <item>Press Start</item>
+    </string-array>
+
+    <string-array name="listValues">
+        <item>2131165184</item>
+        <item>2131165185</item>
+    </string-array>
+
+    <string-array name="listOptionsCount">
+        <item>Count Down</item>
+        <item>Count Up</item>
+    </string-array>
+
+    <string-array name="listValuesCount">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

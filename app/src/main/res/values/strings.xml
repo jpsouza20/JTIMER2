@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">J-Timer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_preference">Preferences</string>
+    <string name="menu_about">About</string>
+    <string name="pref_about_text">Created by: Joao Paulo Souza\nEmail: jpappslab@gmail.com\n\n\nCountdown and Count up timer and alarm application.um</string>
+    <string name="pref_alarm_sound">alarmsound</string>
+    <string name="pref_count">count down or up</string>
+
+</resources>
